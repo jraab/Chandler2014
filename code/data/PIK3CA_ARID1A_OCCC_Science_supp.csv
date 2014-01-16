@@ -1,0 +1,43 @@
+Sample 	Patient age (years) 	Tissue derivation 	Stage 	Sample type 	Screen* 	ARID1A Mutation 	PPP2R1A Mutation 	PIK3CA Mutation 	KRAS Mutation 
+OCC01PT 	39	Primary tumor 	IV 	Immunopurified 	Discovery 	Y 	N 	Y 	N 
+OCC02PT 	47	Primary tumor 	IIIC 	Immunopurified 	Discovery 	Y 	N 	Y 	N 
+OCC03PT 	58	Primary tumor 	IC 	Immunopurified 	Discovery 	Y 	N 	N 	N 
+OCC04PT 	32	Primary tumor 	IV 	Immunopurified 	Discovery 	N 	N 	N 	Y 
+OCC05PT 	55	Primary tumor 	IC 	Immunopurified 	Discovery 	N 	Y 	N 	Y 
+OCC06PT 	46	Recurrent $ tumor 	na** 	Immunopurified 	Discovery 	N 	N 	Y 	N 
+OCC07PT 	52	Primary tumor 	IIIC 	Immunopurified 	Discovery 	Y 	Y 	N 	N 
+OCC08PT 	53	Primary tumor 	IC 	Immunopurified 	Discovery 	Y 	N 	Y 	N 
+OCC09PT 	38	Primary tumor 	IC 	Immunopurified 	Validation 	N 	N 	Y 	N 
+OCC10PT 	47	Primary tumor 	IA 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC11PT 	53	Primary tumor 	IIIC 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC12PT 	56	Primary tumor 	IV 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC13PT 	49	Recurrent tumor 	na 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC14PT 	46	Primary tumor 	IIIC 	Immunopurified 	Validation 	Y 	N 	N 	N 
+OCC15PT 	54	Primary tumor 	IIIC 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC16PT 	82	Primary tumor 	IIB 	Immunopurified 	Validation 	Y 	N 	N 	N 
+OCC17PT 	56	Primary tumor 	IA 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC18PT 	63	Primary tumor 	IA 	Bulk tumor	Validation 	Y 	N 	N 	N 
+OCC19PT 	45	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC20PT 	62	Primary tumor 	IC 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC21PT 	63	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC22PT 	38	Primary tumor 	IC 	Bulk tumor	Validation 	Y 	N 	Y 	N 
+OCC23PT 	40	Primary tumor 	IC 	Bulk tumor	Validation 	Y 	N 	Y 	N 
+OCC24PT 	50	Primary tumor 	IC 	Bulk tumor	Validation 	Y 	N 	N 	N 
+OCC25PT 	52	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC26PT 	47	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC27PT 	51	Primary tumor 	IIIC 	Bulk tumor	Validation 	Y 	N 	Y 	N 
+OCC28PT 	62	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC29PT 	60	Primary tumor 	IV 	Immunopurified 	Validation 	N 	N 	N 	N 
+OCC30PT 	53	Primary tumor 	IC 	Immunopurified 	Validation 	Y 	N 	Y 	N 
+OCC31PT 	52	Primary tumor 	IC 	Immunopurified 	Validation 	N 	N 	N 	N 
+OCC32PT 	42	Primary tumor 	IC 	Immunopurified 	Validation 	Y 	N 	N 	N 
+OCC33PT 	55	Primary tumor 	IIIC 	Immunopurified 	Validation 	N 	N 	N 	N 
+OCC34PT 	47	Recurrent tumor 	na 	Immunopurified 	Validation 	Y 	N 	N 	N 
+OCC35PT 	46	Primary tumor 	IC 	Immunopurified 	Validation 	N 	N 	Y 	N 
+OCC36PT 	37	Primary tumor 	IC 	Immunopurified 	Validation 	Y 	Y 	Y 	N 
+OCC37PT 	57	Primary tumor 	IC 	Immunopurified 	Validation 	N 	N 	N 	N 
+OCC38PT 	53	Primary tumor 	IC 	Immunopurified 	Validation 	N 	N 	N 	N 
+OCC39PT 	70	Primary tumor 	IIA 	Bulk tumor	Validation 	Y 	N 	N 	N 
+OCC40PT 	47	Primary tumor 	IC 	Bulk tumor	Validation 	N 	N 	N 	N 
+OCC41PT 	57	Primary tumor 	IC 	Bulk tumor	Validation 	Y 	N 	N 	N 
+OCC42PT 	51	Primary tumor 	IIIC 	Bulk tumor	Validation 	Y 	N 	Y 	N 
